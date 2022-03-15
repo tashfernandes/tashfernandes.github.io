@@ -20,6 +20,13 @@
 
 .col-block {
     display: inline-block;
+    width: 260px;
+    text-align: top;
+    vertical-align:top;
+}
+
+.col-block-small {
+    display: inline-block;
     width: 180px;
     text-align: top;
     vertical-align:top;
