@@ -1,4 +1,3 @@
-## Natasha Fernandes
 
 I am a **Postdoctoral Researcher** in the School of Computing at Macquarie University, Sydney, Australia.
 
