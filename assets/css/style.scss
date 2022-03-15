@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.incircle {
+    display: block;
+    height: 160px;
+    width: 160px;
+    line-height: 160px;
+
+    -moz-border-radius: 50%; /* or 50% */
+    border-radius: 50%;
+
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 2em;
+}
