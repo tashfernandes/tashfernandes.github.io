@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .incircle {
-    display: block;
+    display: inline-block;
     height: 160px;
     width: 160px;
     line-height: 160px;
@@ -16,4 +16,11 @@
     color: white;
     text-align: center;
     font-size: 2em;
+}
+
+.col-block {
+    display: inline-block;
+    width: 180px;
+    text-align: top;
+    vertical-align:top;
 }
