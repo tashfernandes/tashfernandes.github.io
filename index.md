@@ -8,4 +8,10 @@ My areas of research include differential privacy, metric differential privacy, 
 - A list of my publications is available on [DBLP](https://dblp.org/pid/220/4193.html) or [Google scholar](https://scholar.google.com/citations?user=9fvUO9QAAAAJ&hl=en).
 - My academic CV is available [here](/assets/NatashaFernandesCV.pdf)
 
+### Contact
 
+- School of Computing <br/>
+  4 Research Park Drive, <br/>
+  Macquarie University, <br />
+  NSW 2109, Australia
+- Email: (λv.λw.λx.λy.λz. v.w@x.y.z) natasha fernandes mq edu au  ([hint](http://en.wikipedia.org/wiki/Lambda_calculus))
