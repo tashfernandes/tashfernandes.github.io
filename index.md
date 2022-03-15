@@ -5,7 +5,7 @@ My areas of research include differential privacy, metric differential privacy, 
 
 ### Professional
 
-- A list of my publications is available on [DBLP](https://dblp.org/pid/220/4193.html) or [Google scholar](https://scholar.google.com/citations?user=9fvUO9QAAAAJ&hl=en).
+- A list of my publications is available on [DBLP](https://dblp.org/pid/220/4193.html) or [Google scholar](https://scholar.google.com/citations?user=5h1K50kAAAAJ&hl=en).
 - My academic CV is available [here](/assets/NatashaFernandesCV.pdf)
 
 ### Contact
