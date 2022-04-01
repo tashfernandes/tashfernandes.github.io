@@ -1,5 +1,5 @@
 
-I am a **Postdoctoral Researcher** in the School of Computing at Macquarie University, Sydney, Australia.
+I am a **Lecturer in Cyber Security** in the School of Computing at Macquarie University, Sydney, Australia.
 
 My areas of research include differential privacy, metric differential privacy, quantitative information flow for privacy and privacy-preserving natural language processing.
 
