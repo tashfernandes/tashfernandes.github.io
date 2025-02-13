@@ -8,6 +8,14 @@ My areas of research include differential privacy, metric differential privacy, 
 - A list of my publications is available on [DBLP](https://dblp.org/pid/220/4193.html) or [Google scholar](https://scholar.google.com/citations?user=5h1K50kAAAAJ&hl=en).
 - My academic CV is available [here](/assets/NatashaFernandesCV.pdf)
 
+### Teaching
+
+I teach (or have taught) the following units at Macquarie University:
+- Offensive Security / Ethical Hacking
+- Data Privacy and Information Security
+- Secure Applications Development
+- Digital Forensics
+
 ### Research Opportunities
 
 - I am looking for PhD or Masters students with a strong mathematics background, interested in working on foundations of data privacy. Please contact me (below) and provide a copy of your CV and Academic transcripts.
