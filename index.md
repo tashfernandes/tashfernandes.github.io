@@ -18,7 +18,7 @@ I teach (or have taught) the following units at Macquarie University:
 
 ### Research Opportunities
 
-- I am looking for PhD or Masters students with a strong mathematics background, interested in working on foundations of data privacy. Please contact me (below) and provide a copy of your CV and Academic transcripts.
+I am looking for PhD or Masters students with a strong mathematics background, interested in working on foundations of data privacy. Please contact me (below) and provide a copy of your CV and Academic transcripts.
 
 ### Contact
 
